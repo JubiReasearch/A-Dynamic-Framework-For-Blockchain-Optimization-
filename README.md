@@ -31,7 +31,7 @@ The repository is divided into multiple modular Python scripts to support the ad
 1. **Clone the repository:**
    ```bash
    git clone https://github.com
-   cd A-Dynamic-Framework-For-Blockchain-Optimization
+   cd A-Dynamic-Framework-For-Blockchain-Optimization-
    ```
 2. **Install dependencies:**
    ```bash
